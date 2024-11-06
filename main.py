@@ -2,7 +2,7 @@ import cv2
 import winsound
 # url="http://192.168.137.247:8080/video"
 
-cam = cv2.VideoCapture("theifs.mp4")
+cam = cv2.VideoCapture("footage.mp4")
 # cam = cv2.VideoCapture(url)
 while cam.isOpened():
     ret, frame1 = cam.read()
