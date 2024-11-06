@@ -1,6 +1,6 @@
 # Home Security Camera Using Python
 
-This project uses Python to build a simple home security camera that can detect movement and trigger an alert when activity is detected. The idea was to create a low-cost movement detactor as a Python project.
+This project uses Python to build a simple home security camera that can detect movement and trigger an alert when activity is detected. The idea was to create a low-cost movement detector as a Python project.
 
 ## Features
 - Detects movement using a video stream.
